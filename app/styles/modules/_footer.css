@@ -1,0 +1,16 @@
+footer {
+  background-color: #dfe2dc;
+  padding: 40px 0 330px;
+}
+
+.footer-content {
+  margin: 0 auto;
+  max-width: 1024px;
+  text-align: left;
+
+  p {
+    line-height: 1.6875rem;
+    margin: 0;
+    font-size: 1rem;
+  }
+}
